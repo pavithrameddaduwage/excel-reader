@@ -1,0 +1,17 @@
+{
+    "name": "pmeddaduwage/excel-reader",
+    "autoload": {
+        "psr-4": {
+            "Pmeddaduwage\\ExcelReader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pavithrameddaduwage",
+            "email": "pavithrameddaduwage@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}
